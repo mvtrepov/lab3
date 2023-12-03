@@ -1,0 +1,34 @@
+header{
+    background-color:black;
+    color:white;
+    font-size:35px;
+    text-align:center;
+}
+body{
+    margin:0;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+.charhref{
+    text-decoration: none;
+    color:black;
+    font-size:20px;
+}
+.charinf{
+    text-align: center;
+}
+footer{
+    background-color:black;
+    font-size:35px;
+    text-align:center;
+}
+.wiki{
+    text-decoration: none;
+    color:white;
+}
+.allchars{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
